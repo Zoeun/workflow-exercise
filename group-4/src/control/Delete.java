@@ -13,7 +13,7 @@ import java.sql.SQLException;
 import javax.swing.*;
 
 /**
- * @author Brainrain
+ * @author slf
  */
 public class Delete extends JFrame {
     public Delete() {
